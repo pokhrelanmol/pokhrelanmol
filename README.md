@@ -29,7 +29,7 @@ Currently diving deep into the Web3 ecosystem as a **Security Researcher** and *
 ## 📬 Let's Connect!
 - 📧 **Email:** anmolpokhrel46@gmail.com
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/anmol-pokhrel-984941289/)
-- 🐦 **Twitter:** [@AnmolPokhrel6](https://twitter.com/AnmolPokhrel_)
+- 🐦 **Twitter:** [@0xAnmol_](https://twitter.com/0xAnmol_)
 
 ---
 
