@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Anmol Pokhrel 👋</h1>
+  <h1>Hi there, I'm 0xAnmol 👋</h1>
   <p><b>Web3 Security Researcher & Developer</b></p>
   <p><i>Breaking smart contracts to make them stronger 💪</i></p>
 </div>
