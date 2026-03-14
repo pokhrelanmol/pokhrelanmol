@@ -8,6 +8,8 @@
 
 I'm a **Security Researcher** and **Developer** deeply immersed in the Web3 ecosystem. I have a passion for finding vulnerabilities before the bad guys do. When I'm not auditing smart contracts or building the decentralized future, you'll probably find me outdoors enjoying some sports! 🏔️
 
+Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFLloah7v8uJNTjb_Ss78Vj0Kw/edit?usp=sharing) 
+
 ### 🏆 Audit Portfolio
 
 *Only contests with confirmed findings and on-chain rewards are listed.*
