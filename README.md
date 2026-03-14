@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./profile.jpg" alt="Profile Avatar" width="200" style="border-radius: 50%; border: 4px solid #fff;" />
-  
   <h1>Hi there, I'm Anmol Pokhrel 👋</h1>
   <p><b>Web3 Security Researcher & Developer</b></p>
   <p><i>Breaking smart contracts to make them stronger 💪</i></p>
