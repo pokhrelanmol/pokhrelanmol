@@ -24,6 +24,30 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
     <th>Leaderboard/Report</th>
   </tr>
   <tr>
+    <td>Intuition</td>
+    <td>Code4rena</td>
+    <td>$340</td>
+    <td>🎖️ 4th</td>
+    <td>Solo</td>
+    <td><a href="https://code4rena.com/audits/2026-03-intuition">Link</a></td>
+  </tr>
+  <tr>
+    <td>Velvet v4</td>
+    <td>Cantina</td>
+    <td>$4,647</td>
+    <td>🎖️ 5th</td>
+    <td>Team (Slayer Security)</td>
+    <td><a href="https://cantina.xyz/code/8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8/overview/leaderboard">Link</a></td>
+  </tr>
+  <tr>
+    <td>Infrared-contracts</td>
+    <td>Cantina</td>
+    <td>$12,157</td>
+    <td>🎖️ 6th</td>
+    <td>Team (Slayer Security)</td>
+    <td><a href="https://cantina.xyz/code/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/overview/leaderboard">Link</a></td>
+  </tr>
+  <tr>
     <td>Alchemix Governance (VeALCX)</td>
     <td>Immunefi</td>
     <td>$7,364</td>
@@ -40,28 +64,12 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
     <td><a href="https://immunefi.com/audit-competition/folksfinance-boost/leaderboard/#top">Link</a></td>
   </tr>
   <tr>
-    <td>Uniswap v4</td>
-    <td>Cantina</td>
-    <td>$8,628</td>
-    <td>🎖️ 14th</td>
-    <td>Team (Smart Shield Security)</td>
-    <td><a href="https://cantina.xyz/code/e2cf6906-ec8b-4c78-a585-74ac90615659/overview/leaderboard">Link</a></td>
-  </tr>
-  <tr>
-    <td>Infrared-contracts</td>
-    <td>Cantina</td>
-    <td>$12,157</td>
-    <td>🎖️ 6th</td>
-    <td>Team (Slayer Security)</td>
-    <td><a href="https://cantina.xyz/code/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/overview/leaderboard">Link</a></td>
-  </tr>
-  <tr>
-    <td>Velvet v4</td>
-    <td>Cantina</td>
-    <td>$4,647</td>
-    <td>🎖️ 5th</td>
-    <td>Team (Slayer Security)</td>
-    <td><a href="https://cantina.xyz/code/8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8/overview/leaderboard">Link</a></td>
+    <td>MagicSea</td>
+    <td>Sherlock</td>
+    <td>$550</td>
+    <td>🎖️ 10th</td>
+    <td>Solo</td>
+    <td><a href="https://audits.sherlock.xyz/contests/437/leaderboard">Link</a></td>
   </tr>
   <tr>
     <td>Flare / FAssets</td>
@@ -72,20 +80,20 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
     <td><a href="https://immunefi.com/audit-competition/audit-comp-flare-fassets/leaderboard/#top">Link</a></td>
   </tr>
   <tr>
+    <td>Uniswap v4</td>
+    <td>Cantina</td>
+    <td>$8,628</td>
+    <td>🎖️ 14th</td>
+    <td>Team (Smart Shield Security)</td>
+    <td><a href="https://cantina.xyz/code/e2cf6906-ec8b-4c78-a585-74ac90615659/overview/leaderboard">Link</a></td>
+  </tr>
+  <tr>
     <td>ZetaChain</td>
     <td>Cantina</td>
     <td>$2,135</td>
     <td>🎖️ 17th</td>
     <td>Team (Win Sec)</td>
     <td><a href="https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/overview/leaderboard">Link</a></td>
-  </tr>
-  <tr>
-    <td>MagicSea</td>
-    <td>Sherlock</td>
-    <td>$550</td>
-    <td>🎖️ 10th</td>
-    <td>Solo</td>
-    <td><a href="https://audits.sherlock.xyz/contests/437/leaderboard">Link</a></td>
   </tr>
   <tr>
     <td>Teller Finance</td>
@@ -96,20 +104,20 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
     <td><a href="https://audits.sherlock.xyz/contests/295/leaderboard">Link</a></td>
   </tr>
   <tr>
-    <td>RAAC Core Contracts</td>
-    <td>CodeHawks</td>
-    <td>$313</td>
-    <td>🎖️ 73rd</td>
-    <td>Team (Slayer Security)</td>
-    <td><a href="https://codehawks.cyfrin.io/c/2025-02-raac/results?page=8">Link</a></td>
-  </tr>
-  <tr>
     <td>Alchemix Transmuter</td>
     <td>CodeHawks</td>
     <td>$269</td>
     <td>🎖️ 30th</td>
     <td>Solo</td>
     <td><a href="https://codehawks.cyfrin.io/c/2024-12-alchemix/results?page=3">Link</a></td>
+  </tr>
+  <tr>
+    <td>RAAC Core Contracts</td>
+    <td>CodeHawks</td>
+    <td>$313</td>
+    <td>🎖️ 73rd</td>
+    <td>Team (Slayer Security)</td>
+    <td><a href="https://codehawks.cyfrin.io/c/2025-02-raac/results?page=8">Link</a></td>
   </tr>
 </table>
 
