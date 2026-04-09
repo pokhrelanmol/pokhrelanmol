@@ -123,6 +123,28 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
 
 <!-- More audits will be added here -->
 
+### 🔒 Private Audits
+
+<table border="1">
+  <tr>
+    <th>Protocol</th>
+    <th>Website</th>
+    <th>Report</th>
+  </tr>
+  <tr>
+    <td>Goat Trading AMM</td>
+    <td><a href="https://www.goat.trading/">goat.trading</a></td>
+    <td><a href="https://2351186846-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FF3sYih3mxPwVXwSIsDef%2Fuploads%2F0oGVK1kK18smcRMuZwEZ%2FOxAnmol%20Goat%20Trading%20Audit%20Report.pdf?alt=media&token=c91ae24c-bd30-46fe-b633-f137cd031df5">Report</a></td>
+  </tr>
+  <tr>
+    <td>Hash Horse</td>
+    <td><a href="https://www.hash.horse/">hash.horse</a></td>
+    <td><a href="https://gossamer-apricot-255.notion.site/Muse-Market-Horse-Race-Betting-Daap-Audit-Report-2106f47fd03680bea4c6cb4d4febb153?pvs=73">Report</a></td>
+  </tr>
+</table>
+
+<!-- More private audits will be added here -->
+
 <br>
 ---
 
