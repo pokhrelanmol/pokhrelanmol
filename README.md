@@ -24,6 +24,14 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
     <th>Leaderboard/Report</th>
   </tr>
   <tr>
+    <td>Rova</td>
+    <td>Sherlock</td>
+    <td>$0.04</td>
+    <td>🥉 3rd</td>
+    <td>Team (Slayer Security)</td>
+    <td><a href="https://audits.sherlock.xyz/contests/498">Link</a></td>
+  </tr>
+  <tr>
     <td>Intuition</td>
     <td>Code4rena</td>
     <td>$340</td>
@@ -70,6 +78,14 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
     <td>🎖️ 10th</td>
     <td>Solo</td>
     <td><a href="https://audits.sherlock.xyz/contests/437/leaderboard">Link</a></td>
+  </tr>
+  <tr>
+    <td>Symmio, Staking and Vesting</td>
+    <td>Sherlock</td>
+    <td>$68.35</td>
+    <td>🎖️ 10th</td>
+    <td>Team (Slayer Security)</td>
+    <td><a href="https://audits.sherlock.xyz/contests/838">Link</a></td>
   </tr>
   <tr>
     <td>Flare / FAssets</td>
