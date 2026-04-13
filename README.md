@@ -26,7 +26,7 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
   <tr>
     <td>Rova</td>
     <td>Sherlock</td>
-    <td>$0.04</td>
+    <td>xxx</td>
     <td>🥉 3rd</td>
     <td>Team (Slayer Security)</td>
     <td><a href="https://audits.sherlock.xyz/contests/498">Link</a></td>
