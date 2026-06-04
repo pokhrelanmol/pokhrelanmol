@@ -1,15 +1,51 @@
 <div align="center">
   <h1>Hi there, I'm 0xAnmol 👋</h1>
-  <p><b>Web3 Security Researcher & Developer</b></p>
-  <p><i>Breaking smart contracts to make them stronger 💪</i></p>
-   <p><i>Co-Founder https://slayer-security.xyz/</i></p>
+  <p><b>Web3 Security Researcher, Developer & Co-Founder of <a href="https://slayer-security.xyz/">Slayer Security</a></b></p>
+  <p><i>Protecting onchain finance through rigorous smart contract security research, audits, and adversarial review.</i></p>
 </div>
 
 ### 🕵️‍♂️ About Me
 
-I'm a **Security Researcher** and **Developer** deeply immersed in the Web3 ecosystem. I have a passion for finding vulnerabilities before the bad guys do. When I'm not auditing smart contracts or building the decentralized future, you'll probably find me outdoors enjoying some sports! 🏔️
+I'm a **Security Researcher**, **Developer**, and current **Co-Founder of [Slayer Security](https://slayer-security.xyz/)**, where I help protect onchain finance through deep protocol review, vulnerability research, and practical security engineering.
 
-Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFLloah7v8uJNTjb_Ss78Vj0Kw/edit?usp=sharing) 
+Before Slayer Security, I worked with **[p2.market](https://p2.market/)** as a full-stack developer, building Web3 infrastructure, smart contract payment flows, and keeper systems for a P2P stablecoin ecommerce marketplace. I have also competed across leading audit platforms including Sherlock, Cantina, Immunefi, Code4rena, and CodeHawks. My focus is finding high-impact issues before they reach production, strengthening DeFi systems, and helping teams ship with more confidence.
+
+When I'm not auditing smart contracts or building in Web3, you'll probably find me outdoors enjoying some sports! 🏔️
+
+### 💼 Selected Experience & Development Work
+
+<table border="1">
+  <tr>
+    <th>Work</th>
+    <th>Role</th>
+    <th>Focus</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://slayer-security.xyz/">Slayer Security</a></td>
+    <td>Co-Founder</td>
+    <td>Protecting onchain finance through smart contract audits, protocol security research, and adversarial review. <a href="https://slayer-security.xyz/portfolio">Team portfolio</a></td>
+    <td>Solidity, Foundry, DeFi Security</td>
+  </tr>
+  <tr>
+    <td><a href="https://p2.market/">p2.market</a></td>
+    <td>Full-Stack Developer</td>
+    <td>Built full-stack product features, backend infrastructure, keeper systems, and smart contract-based payment flows for a P2P stablecoin ecommerce marketplace.</td>
+    <td>Solidity, TypeScript, Next.js, Prisma, PostgreSQL, BullMQ</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/pokhrelanmol/kilt-didcomm-chatapp">DIDComm Chat App</a></td>
+    <td>Hackathon Winner</td>
+    <td>Built a decentralized identity messaging app using KILT DID and the DIDComm messaging specification on Polkadot.</td>
+    <td>TypeScript, Node.js, ethers, KILT SDK</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/inedibleX/goat-trading/blob/main/audits/OxAnmol%20Audit%20Report.pdf">Goat Trading AMM</a></td>
+    <td>Security Auditor</td>
+    <td>Audited the AMM in parallel with active project development to help the team secure the protocol before launch.</td>
+    <td>Solidity, Foundry</td>
+  </tr>
+</table>
 
 ### 🏆 Audit Portfolio
 
@@ -23,14 +59,6 @@ Check my work: [Resume](https://docs.google.com/document/d/1HRKRJHhSBPXeiz7KltFL
     <th>Rank</th>
     <th>Team/Solo</th>
     <th>Leaderboard/Report</th>
-  </tr>
-  <tr>
-    <td>Rova</td>
-    <td>Sherlock</td>
-    <td>xxx</td>
-    <td>🥉 3rd</td>
-    <td>Team (Slayer Security)</td>
-    <td><a href="https://audits.sherlock.xyz/contests/498">Link</a></td>
   </tr>
   <tr>
     <td>Intuition</td>
