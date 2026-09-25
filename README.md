@@ -317,6 +317,10 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/EVM-3C3C3D?style=for-the-badge" alt="EVM" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+  <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge" alt="Anchor" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
   <img src="https://img.shields.io/badge/ethers.js-2535a0?style=for-the-badge&logo=ethers&logoColor=white" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
@@ -338,8 +342,8 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
   <a href="https://twitter.com/0xAnmol_">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/anmol-pokhrel-984941289/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://t.me/Oxanmol">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:anmolpokhrel46@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
