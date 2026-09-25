@@ -283,6 +283,13 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
     <td>Sep 2026</td>
     <td>NDA</td>
   </tr>
+  <tr>
+    <td>MultipliTokenClaim</td>
+    <td>Shieldify</td>
+    <td>ERC-20, Token Distribution / Claim Contracts</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
+  </tr>
 </table>
 
 <!-- More private audits will be added here -->
