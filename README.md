@@ -172,23 +172,135 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
 
 <table border="1">
   <tr>
-    <th>Protocol</th>
-    <th>Website</th>
+    <th>Project</th>
+    <th>Organization</th>
+    <th>Type</th>
+    <th>Date</th>
     <th>Report</th>
   </tr>
   <tr>
     <td>Goat Trading AMM</td>
-    <td><a href="https://www.goat.trading/">goat.trading</a></td>
+    <td>SOLO</td>
+    <td>AMM (Solidity)</td>
+    <td>—</td>
     <td><a href="https://2351186846-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FF3sYih3mxPwVXwSIsDef%2Fuploads%2F0oGVK1kK18smcRMuZwEZ%2FOxAnmol%20Goat%20Trading%20Audit%20Report.pdf?alt=media&token=c91ae24c-bd30-46fe-b633-f137cd031df5">Report</a></td>
   </tr>
   <tr>
     <td>Hash Horse</td>
-    <td><a href="https://www.hash.horse/">hash.horse</a></td>
+    <td>SOLO</td>
+    <td>Betting</td>
+    <td>—</td>
     <td><a href="https://gossamer-apricot-255.notion.site/Muse-Market-Horse-Race-Betting-Daap-Audit-Report-2106f47fd03680bea4c6cb4d4febb153?pvs=73">Report</a></td>
+  </tr>
+  <tr>
+    <td>AMMO</td>
+    <td>Slayer Security</td>
+    <td>RWA (Solidity)</td>
+    <td>—</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>LI.FI Intents</td>
+    <td>Pashov Audit Group</td>
+    <td>Intents / cross-chain (Solidity)</td>
+    <td>Jul 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>LI.FI Intents</td>
+    <td>Pashov Audit Group</td>
+    <td>Intents / cross-chain (Rust / Pinocchio)</td>
+    <td>Jul 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Paxos Labs Boring Vault</td>
+    <td>Pashov Audit Group</td>
+    <td>Vault (Solidity)</td>
+    <td>Aug 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Paxos Labs Boring Vault</td>
+    <td>Pashov Audit Group</td>
+    <td>Vault / intents, CowSwap integration</td>
+    <td>Aug 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Gains gTrade</td>
+    <td>Pashov Audit Group</td>
+    <td>Perpetual (Solidity)</td>
+    <td>Aug 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Ostium</td>
+    <td>Pashov Audit Group</td>
+    <td>Perpetual (Solidity)</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Tensora</td>
+    <td>Pashov Audit Group</td>
+    <td>Precompiles for Bittensor (Rust)</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Gains gTrade</td>
+    <td>Pashov Audit Group</td>
+    <td>Perpetual (Solidity)</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>LI.FI Intents</td>
+    <td>Pashov Audit Group</td>
+    <td>Intents / cross-chain (Solana / Anchor)</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Paxos Labs Boring Vault</td>
+    <td>Pashov Audit Group</td>
+    <td>Vault (Solidity)</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Puffer Finance</td>
+    <td>Pashov Audit Group</td>
+    <td>Timelock / vault</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
+  </tr>
+  <tr>
+    <td>Trevee</td>
+    <td>Pashov Audit Group</td>
+    <td>AMM and ERC-4626 vault</td>
+    <td>Sep 2026</td>
+    <td>NDA</td>
   </tr>
 </table>
 
 <!-- More private audits will be added here -->
+
+### 🎯 Bug Bounties
+
+<table border="1">
+  <tr>
+    <th>Protocol</th>
+    <th>Payout</th>
+    <th>Report</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.orionfinance.ai/blog/stress-testing-the-orion-protocol-a-private-security-research-program">Orion Finance</a></td>
+    <td>NDA</td>
+    <td><a href="https://github.com/OrionFinanceAI/protocol/blob/main/audits/2026-07-14-orion-finance-security-report.pdf">Report</a></td>
+  </tr>
+</table>
 
 <br>
 ---
