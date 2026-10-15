@@ -22,9 +22,9 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
     <th>Stack</th>
   </tr>
   <tr>
-    <td><a href="https://slayer-security.xyz/">Slayer Security</a></td>
+    <td><a href="https://stackwidesecurity.com/">Stackwide Security</a></td>
     <td>Co-Founder</td>
-    <td>Protecting onchain finance through smart contract audits, protocol security research, and adversarial review. <a href="https://slayer-security.xyz/portfolio">Team portfolio</a></td>
+    <td>Protecting onchain finance through smart contract audits, protocol security research, and adversarial review. <a href="https://stackwidesecurity.com/portfolio">Team portfolio</a></td>
     <td>Solidity, Foundry, DeFi Security</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
     <td>Cantina</td>
     <td>$4,647</td>
     <td>🎖️ 5th</td>
-    <td>Team (Slayer Security)</td>
+    <td>Team (Stackwide Security)</td>
     <td><a href="https://cantina.xyz/code/8cf9c7a0-a7a6-446a-8577-1e2c254eb5a8/overview/leaderboard">Link</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
     <td>Cantina</td>
     <td>$12,157</td>
     <td>🎖️ 6th</td>
-    <td>Team (Slayer Security)</td>
+    <td>Team (Stackwide Security)</td>
     <td><a href="https://cantina.xyz/code/ac5f64e6-3bf2-4269-bbb0-4bcd70425a1d/overview/leaderboard">Link</a></td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
     <td>Sherlock</td>
     <td>$68.35</td>
     <td>🎖️ 10th</td>
-    <td>Team (Slayer Security)</td>
+    <td>Team (Stackwide Security)</td>
     <td><a href="https://audits.sherlock.xyz/contests/838">Link</a></td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
     <td>CodeHawks</td>
     <td>$313</td>
     <td>🎖️ 73rd</td>
-    <td>Team (Slayer Security)</td>
+    <td>Team (Stackwide Security)</td>
     <td><a href="https://codehawks.cyfrin.io/c/2025-02-raac/results?page=8">Link</a></td>
   </tr>
 </table>
@@ -194,7 +194,7 @@ When I'm not auditing smart contracts or building in Web3, you'll probably find 
   </tr>
   <tr>
     <td>AMMO</td>
-    <td>Slayer Security</td>
+    <td>Stackwide Security</td>
     <td>RWA (Solidity)</td>
     <td>—</td>
     <td>NDA</td>
