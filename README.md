@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Hi there, I'm 0xAnmol 👋</h1>
-  <p><b>Web3 Security Researcher, Developer & Co-Founder of <a href="https://slayer-security.xyz/">Slayer Security</a></b></p>
+  <p><b>Web3 Security Researcher, Developer & Co-Founder of <a href="https://stackwidesecurity.com/">Stackwide Security</a></b></p>
   <p><i>Protecting onchain finance through rigorous smart contract security research, audits, and adversarial review.</i></p>
 </div>
 
 ### 🕵️‍♂️ About Me
 
-I'm a **Security Researcher**, **Developer**, and current **Co-Founder of [Slayer Security](https://slayer-security.xyz/)**, where I help protect onchain finance through deep protocol review, vulnerability research, and practical security engineering.
+I'm a **Security Researcher**, **Developer**, and current **Co-Founder of [Stackwide Security](https://stackwidesecurity.com/)**, where I help protect onchain finance through deep protocol review, vulnerability research, and practical security engineering.
 
-Before Slayer Security, I worked with **[p2.market](https://p2.market/)** as a full-stack developer, building Web3 infrastructure, smart contract payment flows, and keeper systems for a P2P stablecoin ecommerce marketplace. I have also competed across leading audit platforms including Sherlock, Cantina, Immunefi, Code4rena, and CodeHawks. My focus is finding high-impact issues before they reach production, strengthening DeFi systems, and helping teams ship with more confidence.
+Before Stackwide Security, I worked with **[p2.market](https://p2.market/)** as a full-stack developer, building Web3 infrastructure, smart contract payment flows, and keeper systems for a P2P stablecoin ecommerce marketplace. I have also competed across leading audit platforms including Sherlock, Cantina, Immunefi, Code4rena, and CodeHawks. My focus is finding high-impact issues before they reach production, strengthening DeFi systems, and helping teams ship with more confidence.
 
 When I'm not auditing smart contracts or building in Web3, you'll probably find me outdoors enjoying some sports! 🏔️
 
